@@ -4,3 +4,6 @@ utilisateurs.db
 # Ignorer l'environnement virtuel(très important aussi !)
 venv/
 .idea/
+# Caches Python
+__pycache__/
+*.pyc
