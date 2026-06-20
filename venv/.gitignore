@@ -1,0 +1,6 @@
+# Ignorer le fichier de base de données locale
+utilisateurs.db
+*.db
+# Ignorer l'environnement virtuel(très important aussi !)
+venv/
+.idea/
